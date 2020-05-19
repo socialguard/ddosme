@@ -28,7 +28,7 @@ ip="90.189.180.13"
 port=8801
 #ip = raw_input("IP Target : ")
 #port = input("Port      : ")
-print("Attacking "+ip+":"+port)
+#print("Attacking "+ip+":"+port)
 
 os.system("clear")
 os.system("figlet Attack Starting")
