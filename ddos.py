@@ -25,7 +25,7 @@ print "VK       : https://vk.com/mlshganpistolettt"
 print "github   : https://github.com/socialguardian"
 print
 ip="90.189.180.13"
-port="8801"
+port=8801
 #ip = raw_input("IP Target : ")
 #port = input("Port      : ")
 print("Attacking "+ip+":"+port)
